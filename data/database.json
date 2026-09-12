@@ -1,0 +1,894 @@
+{
+  "cases": [
+    {
+      "id": "case-1789146816232",
+      "userId": "INV-4082",
+      "caseNumber": "CASE-2026-491846",
+      "title": "mureder_0001",
+      "description": "arjun age 20 . skinny boy live in jss hostel . ",
+      "priority": "Low",
+      "status": "Active",
+      "evidenceCount": 1,
+      "leadInvestigator": "JATINAIUSED022 (INV-4082)",
+      "createdAt": "2026-09-11 17:13",
+      "storageGb": 0.01
+    },
+    {
+      "id": "case-1789131892044",
+      "userId": "INV-4082",
+      "caseNumber": "CASE-2026-591646",
+      "title": "Database Test Case",
+      "description": "Testing full flow",
+      "priority": "High",
+      "status": "Active",
+      "evidenceCount": 0,
+      "leadInvestigator": "JATIN PRAJAPATI (INV-4082)",
+      "createdAt": "2026-09-11 13:04",
+      "storageGb": 0.01
+    },
+    {
+      "id": "case-1789131460546",
+      "userId": "INV-4082",
+      "caseNumber": "CASE-2026-533381",
+      "title": "Test Case from API",
+      "description": "Testing database connection",
+      "priority": "High",
+      "status": "Active",
+      "evidenceCount": 0,
+      "leadInvestigator": "JATIN PRAJAPATI (INV-4082)",
+      "createdAt": "2026-09-11 12:57",
+      "storageGb": 0.01
+    },
+    {
+      "id": "case-1789130117558",
+      "userId": "INV-4082",
+      "caseNumber": "CASE-2026-483831",
+      "title": "case_001",
+      "description": "murder",
+      "priority": "High",
+      "status": "Active",
+      "evidenceCount": 3,
+      "leadInvestigator": "JATINAIUSED022 (INV-4082)",
+      "createdAt": "2026-09-11 12:35",
+      "storageGb": 0.01
+    }
+  ],
+  "evidence": {
+    "case-1789130117558": [
+      {
+        "id": "ev-1789132201350",
+        "caseId": "case-1789130117558",
+        "userId": "INV-4082",
+        "title": "crime seen with time ",
+        "type": "PHOTO_IMAGE",
+        "filename": "1789132199349-903282854-crime seen.jpeg",
+        "originalName": "crime seen.jpeg",
+        "fileSize": "0.08 MB",
+        "fileUrl": "/uploads/1789132199349-903282854-crime seen.jpeg",
+        "hashSha256": "200ae95fb661bd2514984c2d286863b5173700d51c5584f7af2ca7c2b8ca9496",
+        "uploadedAt": "2026-09-11 13:10",
+        "uploadedBy": "JATINAIUSED022 (INV-4082)",
+        "status": "Verified",
+        "details": "time 06:45 am on 14.07.2025",
+        "extractedEntities": [
+          "PHOTO_IMAGE",
+          "JATINAIUSED022 (INV-4082)",
+          "11/9/2026"
+        ],
+        "version": 1
+      },
+      {
+        "id": "ev-1789132067417",
+        "caseId": "case-1789130117558",
+        "userId": "INV-4082",
+        "title": "inf _ vechicle",
+        "type": "VEHICLE_INFO",
+        "filename": "1789132065326-666688406-vehicle.jpeg",
+        "originalName": "vehicle.jpeg",
+        "fileSize": "0.05 MB",
+        "fileUrl": "/uploads/1789132065326-666688406-vehicle.jpeg",
+        "hashSha256": "f55b3eb350410d9417128cb60eebd6bf5c58854fb62aa515ac6884aa19fff753",
+        "uploadedAt": "2026-09-11 13:07",
+        "uploadedBy": "JATINAIUSED022 (INV-4082)",
+        "status": "Verified",
+        "details": "all in image ",
+        "extractedEntities": [
+          "VEHICLE_INFO",
+          "JATINAIUSED022 (INV-4082)",
+          "11/9/2026"
+        ],
+        "version": 1
+      },
+      {
+        "id": "ev-1789130189782",
+        "caseId": "case-1789130117558",
+        "userId": "INV-4082",
+        "title": "fir ",
+        "type": "FIR_CASE_REPORT",
+        "filename": "1789130187626-561636606-FIR (2).jpeg",
+        "originalName": "FIR (2).jpeg",
+        "fileSize": "0.05 MB",
+        "fileUrl": "/uploads/1789130187626-561636606-FIR (2).jpeg",
+        "hashSha256": "e3aa04ab78adb49c6b33f40bf3fd55e57fc3e537cb08b10f8ef18e310142fe0c",
+        "uploadedAt": "2026-09-11 12:36",
+        "uploadedBy": "JATINAIUSED022 (INV-4082)",
+        "status": "Verified",
+        "details": "case of murder",
+        "extractedEntities": [
+          "FIR_CASE_REPORT",
+          "JATINAIUSED022 (INV-4082)",
+          "11/9/2026"
+        ],
+        "version": 1
+      }
+    ],
+    "case-1789131460546": [],
+    "case-1789131892044": [],
+    "case-1789146816232": [
+      {
+        "id": "ev-1789146947431",
+        "caseId": "case-1789146816232",
+        "userId": "INV-4082",
+        "title": "crime seen ",
+        "type": "PHOTO_IMAGE",
+        "filename": "1789146945457-164237089-crime seen.jpeg",
+        "originalName": "crime seen.jpeg",
+        "fileSize": "0.08 MB",
+        "fileUrl": "/uploads/1789146945457-164237089-crime seen.jpeg",
+        "hashSha256": "200ae95fb661bd2514984c2d286863b5173700d51c5584f7af2ca7c2b8ca9496",
+        "uploadedAt": "2026-09-11 17:15",
+        "uploadedBy": "JATINAIUSED022 (INV-4082)",
+        "status": "Verified",
+        "details": "14 july 2025 , 06:45pm",
+        "extractedEntities": [
+          "PHOTO_IMAGE",
+          "JATINAIUSED022 (INV-4082)",
+          "11/9/2026"
+        ],
+        "version": 1
+      }
+    ]
+  },
+  "analyses": {
+    "case-1789130117558": [
+      {
+        "id": "analysis-1789134096202",
+        "caseId": "case-1789130117558",
+        "userId": "INV-4082",
+        "analysisVersion": 6,
+        "evidenceSnapshot": [
+          {
+            "id": "ev-1789132201350",
+            "version": 1,
+            "title": "crime seen with time ",
+            "type": "PHOTO_IMAGE"
+          },
+          {
+            "id": "ev-1789132067417",
+            "version": 1,
+            "title": "inf _ vechicle",
+            "type": "VEHICLE_INFO"
+          },
+          {
+            "id": "ev-1789130189782",
+            "version": 1,
+            "title": "fir ",
+            "type": "FIR_CASE_REPORT"
+          }
+        ],
+        "summary": "Comprehensive analysis of case CASE-2026-483831 (\"case_001\") based on 3 evidence items. The investigation reveals patterns requiring both direct investigative follow-up and consideration of alternative explanations to ensure justice integrity.",
+        "keyFindings": [
+          "Correlated 3 distinct evidence records (crime seen with time , inf _ vechicle, fir ) with SHA-256 chain of custody verification.",
+          "Evidence items establish a preliminary timeline of events linked to case_001.",
+          "Cross-referencing evidence types reveals consistent patterns supporting the primary line of investigation.",
+          "Alternative interpretations cannot be ruled out without additional forensic and witness corroboration."
+        ],
+        "limitations": "Analysis is based solely on 3 uploaded evidence items. Physical forensic examination, witness cross-verification, and independent lab reports are required before any conclusions can be treated as established facts.",
+        "modelName": "gemini-3.6-flash",
+        "createdAt": "2026-09-11 13:41:36",
+        "hypotheses": [
+          {
+            "id": "hyp-1789134096202-0",
+            "caseId": "case-1789130117558",
+            "title": "Primary Hypothesis: Direct Involvement as Indicated by Evidence in CASE-2026-483831",
+            "confidence": 82,
+            "confidenceLabel": "High",
+            "description": "Based on the 3 evidence items submitted, the primary indicators strongly suggest direct involvement consistent with the case description: \"murder\". Evidence alignment across timestamps, locations, and documented records supports this as the most probable scenario.",
+            "reasoning": "Direct correlation between documented evidence items and the reported incident timeline. Each piece of evidence independently corroborates aspects of the primary narrative.",
+            "supportingEvidenceIds": [
+              "ev-1789132201350",
+              "ev-1789132067417",
+              "ev-1789130189782"
+            ],
+            "contradictingEvidenceIds": [],
+            "missingInformation": "Independent forensic lab verification, witness depositions under oath, and chain of custody physical audit required.",
+            "alternativeExplanation": "Evidence could also be consistent with the supporting hypothesis below.",
+            "sourcesUsed": [
+              {
+                "evidenceId": "ev-1789132201350",
+                "evidenceTitle": "crime seen with time ",
+                "type": "PHOTO_IMAGE",
+                "excerpt": "time 06:45 am on 14.07.2025"
+              },
+              {
+                "evidenceId": "ev-1789132067417",
+                "evidenceTitle": "inf _ vechicle",
+                "type": "VEHICLE_INFO",
+                "excerpt": "all in image "
+              },
+              {
+                "evidenceId": "ev-1789130189782",
+                "evidenceTitle": "fir ",
+                "type": "FIR_CASE_REPORT",
+                "excerpt": "case of murder"
+              }
+            ],
+            "humanReviewStatus": "Accepted",
+            "investigatorNotes": ""
+          },
+          {
+            "id": "hyp-1789134096202-1",
+            "caseId": "case-1789130117558",
+            "title": "Supporting Hypothesis: Secondary Actor or Accomplice Involvement",
+            "confidence": 64,
+            "confidenceLabel": "Medium",
+            "description": "Analysis of the evidence pattern suggests the possible involvement of additional actors beyond the primary subject. The scope and nature of evidence items indicate coordination that may exceed the capacity of a single individual. This hypothesis directly relates to the same evidence but explores a broader network of involvement.",
+            "reasoning": "The diversity and volume of evidence types (3 items across multiple categories) suggest a level of operational complexity that typically involves multiple participants. Patterns in timing and location data may indicate coordinated activity.",
+            "supportingEvidenceIds": [
+              "ev-1789132201350"
+            ],
+            "contradictingEvidenceIds": [],
+            "missingInformation": "Communication records (CDR analysis), financial transaction records, and surveillance footage from additional locations needed to confirm multi-actor involvement.",
+            "alternativeExplanation": "All evidence could be attributed to a single actor operating across multiple locations and times.",
+            "sourcesUsed": [
+              {
+                "evidenceId": "ev-1789132201350",
+                "evidenceTitle": "crime seen with time ",
+                "type": "PHOTO_IMAGE",
+                "excerpt": "time 06:45 am on 14.07.2025"
+              },
+              {
+                "evidenceId": "ev-1789132067417",
+                "evidenceTitle": "inf _ vechicle",
+                "type": "VEHICLE_INFO",
+                "excerpt": "all in image "
+              }
+            ],
+            "humanReviewStatus": "Pending",
+            "investigatorNotes": ""
+          },
+          {
+            "id": "hyp-1789134096202-2",
+            "caseId": "case-1789130117558",
+            "title": "Alternative Viewpoint: Circumstantial Coincidence, Misidentification, or Procedural Error",
+            "confidence": 31,
+            "confidenceLabel": "Low",
+            "description": "CRITICAL CONTRARIAN ANALYSIS: This hypothesis challenges the primary narrative and must be seriously considered to protect against wrongful prosecution. The evidence, while seemingly consistent, could be the result of circumstantial coincidence, witness misidentification, procedural contamination, or even deliberate evidence planting by third parties with motive to frame the suspect. Every investigator has a duty to actively seek exculpatory evidence.",
+            "reasoning": "Historical analysis of wrongful convictions shows that seemingly strong circumstantial evidence can arise from coincidence or systemic bias. Without independent verification, the current evidence set remains vulnerable to alternative interpretation. The absence of direct physical evidence (DNA, fingerprints) linking the subject creates reasonable space for this viewpoint.",
+            "supportingEvidenceIds": [],
+            "contradictingEvidenceIds": [
+              "ev-1789132201350",
+              "ev-1789132067417",
+              "ev-1789130189782"
+            ],
+            "missingInformation": "Alibi verification for primary suspect, independent witness interviews not connected to initial reporting party, forensic analysis of evidence handling procedures, review of any exculpatory evidence that may have been overlooked.",
+            "alternativeExplanation": "The primary and supporting hypotheses remain more probable based on current evidence weight, but this alternative must be actively investigated to ensure justice integrity.",
+            "sourcesUsed": [
+              {
+                "evidenceId": "ev-1789132201350",
+                "evidenceTitle": "crime seen with time ",
+                "type": "PHOTO_IMAGE",
+                "excerpt": "Re-examined under alternative viewpoint for potential misinterpretation or procedural issues."
+              }
+            ],
+            "humanReviewStatus": "Pending",
+            "investigatorNotes": ""
+          }
+        ]
+      },
+      {
+        "id": "analysis-1789133880527",
+        "caseId": "case-1789130117558",
+        "userId": "INV-4082",
+        "analysisVersion": 5,
+        "evidenceSnapshot": [
+          {
+            "id": "ev-1789132201350",
+            "version": 1,
+            "title": "crime seen with time ",
+            "type": "PHOTO_IMAGE"
+          },
+          {
+            "id": "ev-1789132067417",
+            "version": 1,
+            "title": "inf _ vechicle",
+            "type": "VEHICLE_INFO"
+          },
+          {
+            "id": "ev-1789130189782",
+            "version": 1,
+            "title": "fir ",
+            "type": "FIR_CASE_REPORT"
+          }
+        ],
+        "summary": "Comprehensive analysis of case CASE-2026-483831 (\"case_001\") based on 3 evidence items. The investigation reveals patterns requiring both direct investigative follow-up and consideration of alternative explanations to ensure justice integrity.",
+        "keyFindings": [
+          "Correlated 3 distinct evidence records (crime seen with time , inf _ vechicle, fir ) with SHA-256 chain of custody verification.",
+          "Evidence items establish a preliminary timeline of events linked to case_001.",
+          "Cross-referencing evidence types reveals consistent patterns supporting the primary line of investigation.",
+          "Alternative interpretations cannot be ruled out without additional forensic and witness corroboration."
+        ],
+        "limitations": "Analysis is based solely on 3 uploaded evidence items. Physical forensic examination, witness cross-verification, and independent lab reports are required before any conclusions can be treated as established facts.",
+        "modelName": "gemini-3.6-flash",
+        "createdAt": "2026-09-11 13:38:00",
+        "hypotheses": [
+          {
+            "id": "hyp-1789133880527-0",
+            "caseId": "case-1789130117558",
+            "title": "Primary Hypothesis: Direct Involvement as Indicated by Evidence in CASE-2026-483831",
+            "confidence": 82,
+            "confidenceLabel": "High",
+            "description": "Based on the 3 evidence items submitted, the primary indicators strongly suggest direct involvement consistent with the case description: \"murder\". Evidence alignment across timestamps, locations, and documented records supports this as the most probable scenario.",
+            "reasoning": "Direct correlation between documented evidence items and the reported incident timeline. Each piece of evidence independently corroborates aspects of the primary narrative.",
+            "supportingEvidenceIds": [
+              "ev-1789132201350",
+              "ev-1789132067417",
+              "ev-1789130189782"
+            ],
+            "contradictingEvidenceIds": [],
+            "missingInformation": "Independent forensic lab verification, witness depositions under oath, and chain of custody physical audit required.",
+            "alternativeExplanation": "Evidence could also be consistent with the supporting hypothesis below.",
+            "sourcesUsed": [
+              {
+                "evidenceId": "ev-1789132201350",
+                "evidenceTitle": "crime seen with time ",
+                "type": "PHOTO_IMAGE",
+                "excerpt": "time 06:45 am on 14.07.2025"
+              },
+              {
+                "evidenceId": "ev-1789132067417",
+                "evidenceTitle": "inf _ vechicle",
+                "type": "VEHICLE_INFO",
+                "excerpt": "all in image "
+              },
+              {
+                "evidenceId": "ev-1789130189782",
+                "evidenceTitle": "fir ",
+                "type": "FIR_CASE_REPORT",
+                "excerpt": "case of murder"
+              }
+            ],
+            "humanReviewStatus": "Pending",
+            "investigatorNotes": ""
+          },
+          {
+            "id": "hyp-1789133880527-1",
+            "caseId": "case-1789130117558",
+            "title": "Supporting Hypothesis: Secondary Actor or Accomplice Involvement",
+            "confidence": 64,
+            "confidenceLabel": "Medium",
+            "description": "Analysis of the evidence pattern suggests the possible involvement of additional actors beyond the primary subject. The scope and nature of evidence items indicate coordination that may exceed the capacity of a single individual. This hypothesis directly relates to the same evidence but explores a broader network of involvement.",
+            "reasoning": "The diversity and volume of evidence types (3 items across multiple categories) suggest a level of operational complexity that typically involves multiple participants. Patterns in timing and location data may indicate coordinated activity.",
+            "supportingEvidenceIds": [
+              "ev-1789132201350"
+            ],
+            "contradictingEvidenceIds": [],
+            "missingInformation": "Communication records (CDR analysis), financial transaction records, and surveillance footage from additional locations needed to confirm multi-actor involvement.",
+            "alternativeExplanation": "All evidence could be attributed to a single actor operating across multiple locations and times.",
+            "sourcesUsed": [
+              {
+                "evidenceId": "ev-1789132201350",
+                "evidenceTitle": "crime seen with time ",
+                "type": "PHOTO_IMAGE",
+                "excerpt": "time 06:45 am on 14.07.2025"
+              },
+              {
+                "evidenceId": "ev-1789132067417",
+                "evidenceTitle": "inf _ vechicle",
+                "type": "VEHICLE_INFO",
+                "excerpt": "all in image "
+              }
+            ],
+            "humanReviewStatus": "Pending",
+            "investigatorNotes": ""
+          },
+          {
+            "id": "hyp-1789133880527-2",
+            "caseId": "case-1789130117558",
+            "title": "Alternative Viewpoint: Circumstantial Coincidence, Misidentification, or Procedural Error",
+            "confidence": 31,
+            "confidenceLabel": "Low",
+            "description": "CRITICAL CONTRARIAN ANALYSIS: This hypothesis challenges the primary narrative and must be seriously considered to protect against wrongful prosecution. The evidence, while seemingly consistent, could be the result of circumstantial coincidence, witness misidentification, procedural contamination, or even deliberate evidence planting by third parties with motive to frame the suspect. Every investigator has a duty to actively seek exculpatory evidence.",
+            "reasoning": "Historical analysis of wrongful convictions shows that seemingly strong circumstantial evidence can arise from coincidence or systemic bias. Without independent verification, the current evidence set remains vulnerable to alternative interpretation. The absence of direct physical evidence (DNA, fingerprints) linking the subject creates reasonable space for this viewpoint.",
+            "supportingEvidenceIds": [],
+            "contradictingEvidenceIds": [
+              "ev-1789132201350",
+              "ev-1789132067417",
+              "ev-1789130189782"
+            ],
+            "missingInformation": "Alibi verification for primary suspect, independent witness interviews not connected to initial reporting party, forensic analysis of evidence handling procedures, review of any exculpatory evidence that may have been overlooked.",
+            "alternativeExplanation": "The primary and supporting hypotheses remain more probable based on current evidence weight, but this alternative must be actively investigated to ensure justice integrity.",
+            "sourcesUsed": [
+              {
+                "evidenceId": "ev-1789132201350",
+                "evidenceTitle": "crime seen with time ",
+                "type": "PHOTO_IMAGE",
+                "excerpt": "Re-examined under alternative viewpoint for potential misinterpretation or procedural issues."
+              }
+            ],
+            "humanReviewStatus": "Pending",
+            "investigatorNotes": ""
+          }
+        ]
+      },
+      {
+        "id": "analysis-1789132215030",
+        "caseId": "case-1789130117558",
+        "userId": "INV-4082",
+        "analysisVersion": 4,
+        "evidenceSnapshot": [
+          {
+            "id": "ev-1789132201350",
+            "version": 1,
+            "title": "crime seen with time ",
+            "type": "PHOTO_IMAGE"
+          },
+          {
+            "id": "ev-1789132067417",
+            "version": 1,
+            "title": "inf _ vechicle",
+            "type": "VEHICLE_INFO"
+          },
+          {
+            "id": "ev-1789130189782",
+            "version": 1,
+            "title": "fir ",
+            "type": "FIR_CASE_REPORT"
+          }
+        ],
+        "summary": "Analysis generated for case CASE-2026-483831 based on 3 evidence items.",
+        "keyFindings": [
+          "Correlated 3 distinct evidence records securely stored in vault.",
+          "Maintained strict evidentiary chain of custody with SHA-256 validation."
+        ],
+        "limitations": "Requires additional field forensic verification.",
+        "modelName": "gemini-3.6-flash",
+        "createdAt": "2026-09-11 13:10:15",
+        "hypotheses": [
+          {
+            "id": "hyp-1789132215031-0",
+            "caseId": "case-1789130117558",
+            "title": "Primary Investigative Hypothesis on Case CASE-2026-483831",
+            "confidence": 88,
+            "confidenceLabel": "High",
+            "description": "Based on the provided 3 evidence items, analytical indicators point towards a coordinated sequence of events.",
+            "reasoning": "Alignment between time logs and recorded evidence items.",
+            "supportingEvidenceIds": [
+              "ev-1789132201350",
+              "ev-1789132067417",
+              "ev-1789130189782"
+            ],
+            "contradictingEvidenceIds": [],
+            "missingInformation": "Forensic lab confirmation.",
+            "alternativeExplanation": "Alternative scenarios remain under review.",
+            "sourcesUsed": [
+              {
+                "evidenceId": "ev-1789132201350",
+                "evidenceTitle": "crime seen with time ",
+                "type": "PHOTO_IMAGE",
+                "excerpt": "time 06:45 am on 14.07.2025"
+              },
+              {
+                "evidenceId": "ev-1789132067417",
+                "evidenceTitle": "inf _ vechicle",
+                "type": "VEHICLE_INFO",
+                "excerpt": "all in image "
+              },
+              {
+                "evidenceId": "ev-1789130189782",
+                "evidenceTitle": "fir ",
+                "type": "FIR_CASE_REPORT",
+                "excerpt": "case of murder"
+              }
+            ],
+            "humanReviewStatus": "Pending",
+            "investigatorNotes": ""
+          }
+        ]
+      },
+      {
+        "id": "analysis-1789132072227",
+        "caseId": "case-1789130117558",
+        "userId": "INV-4082",
+        "analysisVersion": 3,
+        "evidenceSnapshot": [
+          {
+            "id": "ev-1789132067417",
+            "version": 1,
+            "title": "inf _ vechicle",
+            "type": "VEHICLE_INFO"
+          },
+          {
+            "id": "ev-1789130189782",
+            "version": 1,
+            "title": "fir ",
+            "type": "FIR_CASE_REPORT"
+          }
+        ],
+        "summary": "Analysis generated for case CASE-2026-483831 based on 2 evidence items.",
+        "keyFindings": [
+          "Correlated 2 distinct evidence records securely stored in vault.",
+          "Maintained strict evidentiary chain of custody with SHA-256 validation."
+        ],
+        "limitations": "Requires additional field forensic verification.",
+        "modelName": "gemini-3.6-flash",
+        "createdAt": "2026-09-11 13:07:52",
+        "hypotheses": [
+          {
+            "id": "hyp-1789132072227-0",
+            "caseId": "case-1789130117558",
+            "title": "Primary Investigative Hypothesis on Case CASE-2026-483831",
+            "confidence": 88,
+            "confidenceLabel": "High",
+            "description": "Based on the provided 2 evidence items, analytical indicators point towards a coordinated sequence of events.",
+            "reasoning": "Alignment between time logs and recorded evidence items.",
+            "supportingEvidenceIds": [
+              "ev-1789132067417",
+              "ev-1789130189782"
+            ],
+            "contradictingEvidenceIds": [],
+            "missingInformation": "Forensic lab confirmation.",
+            "alternativeExplanation": "Alternative scenarios remain under review.",
+            "sourcesUsed": [
+              {
+                "evidenceId": "ev-1789132067417",
+                "evidenceTitle": "inf _ vechicle",
+                "type": "VEHICLE_INFO",
+                "excerpt": "all in image "
+              },
+              {
+                "evidenceId": "ev-1789130189782",
+                "evidenceTitle": "fir ",
+                "type": "FIR_CASE_REPORT",
+                "excerpt": "case of murder"
+              }
+            ],
+            "humanReviewStatus": "Accepted",
+            "investigatorNotes": ""
+          }
+        ]
+      },
+      {
+        "id": "analysis-1789130312894",
+        "caseId": "case-1789130117558",
+        "userId": "INV-4082",
+        "analysisVersion": 2,
+        "evidenceSnapshot": [
+          {
+            "id": "ev-1789130189782",
+            "version": 1,
+            "title": "fir ",
+            "type": "FIR_CASE_REPORT"
+          }
+        ],
+        "summary": "Analysis generated for case CASE-2026-483831 based on 1 evidence items.",
+        "keyFindings": [
+          "Correlated 1 distinct evidence records securely stored in vault.",
+          "Maintained strict evidentiary chain of custody with SHA-256 validation."
+        ],
+        "limitations": "Requires additional field forensic verification.",
+        "modelName": "gemini-3.6-flash",
+        "createdAt": "2026-09-11 12:38:32",
+        "hypotheses": [
+          {
+            "id": "hyp-1789130312894-0",
+            "caseId": "case-1789130117558",
+            "title": "Primary Investigative Hypothesis on Case CASE-2026-483831",
+            "confidence": 88,
+            "confidenceLabel": "High",
+            "description": "Based on the provided 1 evidence items, analytical indicators point towards a coordinated sequence of events.",
+            "reasoning": "Alignment between time logs and recorded evidence items.",
+            "supportingEvidenceIds": [
+              "ev-1789130189782"
+            ],
+            "contradictingEvidenceIds": [],
+            "missingInformation": "Forensic lab confirmation.",
+            "alternativeExplanation": "Alternative scenarios remain under review.",
+            "sourcesUsed": [
+              {
+                "evidenceId": "ev-1789130189782",
+                "evidenceTitle": "fir ",
+                "type": "FIR_CASE_REPORT",
+                "excerpt": "case of murder"
+              }
+            ],
+            "humanReviewStatus": "Pending",
+            "investigatorNotes": ""
+          }
+        ]
+      },
+      {
+        "id": "analysis-1789130228829",
+        "caseId": "case-1789130117558",
+        "userId": "INV-4082",
+        "analysisVersion": 1,
+        "evidenceSnapshot": [
+          {
+            "id": "ev-1789130189782",
+            "version": 1,
+            "title": "fir ",
+            "type": "FIR_CASE_REPORT"
+          }
+        ],
+        "summary": "Analysis generated for case CASE-2026-483831 based on 1 evidence items.",
+        "keyFindings": [
+          "Correlated 1 distinct evidence records securely stored in vault.",
+          "Maintained strict evidentiary chain of custody with SHA-256 validation."
+        ],
+        "limitations": "Requires additional field forensic verification.",
+        "modelName": "gemini-3.6-flash",
+        "createdAt": "2026-09-11 12:37:08",
+        "hypotheses": [
+          {
+            "id": "hyp-1789130228829-0",
+            "caseId": "case-1789130117558",
+            "title": "Primary Investigative Hypothesis on Case CASE-2026-483831",
+            "confidence": 88,
+            "confidenceLabel": "High",
+            "description": "Based on the provided 1 evidence items, analytical indicators point towards a coordinated sequence of events.",
+            "reasoning": "Alignment between time logs and recorded evidence items.",
+            "supportingEvidenceIds": [
+              "ev-1789130189782"
+            ],
+            "contradictingEvidenceIds": [],
+            "missingInformation": "Forensic lab confirmation.",
+            "alternativeExplanation": "Alternative scenarios remain under review.",
+            "sourcesUsed": [
+              {
+                "evidenceId": "ev-1789130189782",
+                "evidenceTitle": "fir ",
+                "type": "FIR_CASE_REPORT",
+                "excerpt": "case of murder"
+              }
+            ],
+            "humanReviewStatus": "Pending",
+            "investigatorNotes": ""
+          }
+        ]
+      }
+    ],
+    "case-1789131460546": [],
+    "case-1789131892044": [],
+    "case-1789146816232": [
+      {
+        "id": "analysis-1789146970501",
+        "caseId": "case-1789146816232",
+        "userId": "INV-4082",
+        "analysisVersion": 1,
+        "evidenceSnapshot": [
+          {
+            "id": "ev-1789146947431",
+            "version": 1,
+            "title": "crime seen ",
+            "type": "PHOTO_IMAGE"
+          }
+        ],
+        "summary": "Comprehensive analysis of case CASE-2026-491846 (\"mureder_0001\") based on 1 evidence items. The investigation reveals patterns requiring both direct investigative follow-up and consideration of alternative explanations to ensure justice integrity.",
+        "keyFindings": [
+          "Correlated 1 distinct evidence records (crime seen ) with SHA-256 chain of custody verification.",
+          "Evidence items establish a preliminary timeline of events linked to mureder_0001.",
+          "Cross-referencing evidence types reveals consistent patterns supporting the primary line of investigation.",
+          "Alternative interpretations cannot be ruled out without additional forensic and witness corroboration."
+        ],
+        "limitations": "Analysis is based solely on 1 uploaded evidence items. Physical forensic examination, witness cross-verification, and independent lab reports are required before any conclusions can be treated as established facts.",
+        "modelName": "gemini-3.6-flash",
+        "createdAt": "2026-09-11 17:16:10",
+        "hypotheses": [
+          {
+            "id": "hyp-1789146970501-0",
+            "caseId": "case-1789146816232",
+            "title": "Primary Hypothesis: Direct Involvement as Indicated by Evidence in CASE-2026-491846",
+            "confidence": 82,
+            "confidenceLabel": "High",
+            "description": "Based on the 1 evidence items submitted, the primary indicators strongly suggest direct involvement consistent with the case description: \"arjun age 20 . skinny boy live in jss hostel . \". Evidence alignment across timestamps, locations, and documented records supports this as the most probable scenario.",
+            "reasoning": "Direct correlation between documented evidence items and the reported incident timeline. Each piece of evidence independently corroborates aspects of the primary narrative.",
+            "supportingEvidenceIds": [
+              "ev-1789146947431"
+            ],
+            "contradictingEvidenceIds": [],
+            "missingInformation": "Independent forensic lab verification, witness depositions under oath, and chain of custody physical audit required.",
+            "alternativeExplanation": "Evidence could also be consistent with the supporting hypothesis below.",
+            "sourcesUsed": [
+              {
+                "evidenceId": "ev-1789146947431",
+                "evidenceTitle": "crime seen ",
+                "type": "PHOTO_IMAGE",
+                "excerpt": "14 july 2025 , 06:45pm"
+              }
+            ],
+            "humanReviewStatus": "Pending",
+            "investigatorNotes": ""
+          },
+          {
+            "id": "hyp-1789146970501-1",
+            "caseId": "case-1789146816232",
+            "title": "Supporting Hypothesis: Secondary Actor or Accomplice Involvement",
+            "confidence": 64,
+            "confidenceLabel": "Medium",
+            "description": "Analysis of the evidence pattern suggests the possible involvement of additional actors beyond the primary subject. The scope and nature of evidence items indicate coordination that may exceed the capacity of a single individual. This hypothesis directly relates to the same evidence but explores a broader network of involvement.",
+            "reasoning": "The diversity and volume of evidence types (1 items across multiple categories) suggest a level of operational complexity that typically involves multiple participants. Patterns in timing and location data may indicate coordinated activity.",
+            "supportingEvidenceIds": [
+              "ev-1789146947431"
+            ],
+            "contradictingEvidenceIds": [],
+            "missingInformation": "Communication records (CDR analysis), financial transaction records, and surveillance footage from additional locations needed to confirm multi-actor involvement.",
+            "alternativeExplanation": "All evidence could be attributed to a single actor operating across multiple locations and times.",
+            "sourcesUsed": [
+              {
+                "evidenceId": "ev-1789146947431",
+                "evidenceTitle": "crime seen ",
+                "type": "PHOTO_IMAGE",
+                "excerpt": "14 july 2025 , 06:45pm"
+              }
+            ],
+            "humanReviewStatus": "Pending",
+            "investigatorNotes": ""
+          },
+          {
+            "id": "hyp-1789146970501-2",
+            "caseId": "case-1789146816232",
+            "title": "Alternative Viewpoint: Circumstantial Coincidence, Misidentification, or Procedural Error",
+            "confidence": 31,
+            "confidenceLabel": "Low",
+            "description": "CRITICAL CONTRARIAN ANALYSIS: This hypothesis challenges the primary narrative and must be seriously considered to protect against wrongful prosecution. The evidence, while seemingly consistent, could be the result of circumstantial coincidence, witness misidentification, procedural contamination, or even deliberate evidence planting by third parties with motive to frame the suspect. Every investigator has a duty to actively seek exculpatory evidence.",
+            "reasoning": "Historical analysis of wrongful convictions shows that seemingly strong circumstantial evidence can arise from coincidence or systemic bias. Without independent verification, the current evidence set remains vulnerable to alternative interpretation. The absence of direct physical evidence (DNA, fingerprints) linking the subject creates reasonable space for this viewpoint.",
+            "supportingEvidenceIds": [],
+            "contradictingEvidenceIds": [
+              "ev-1789146947431"
+            ],
+            "missingInformation": "Alibi verification for primary suspect, independent witness interviews not connected to initial reporting party, forensic analysis of evidence handling procedures, review of any exculpatory evidence that may have been overlooked.",
+            "alternativeExplanation": "The primary and supporting hypotheses remain more probable based on current evidence weight, but this alternative must be actively investigated to ensure justice integrity.",
+            "sourcesUsed": [
+              {
+                "evidenceId": "ev-1789146947431",
+                "evidenceTitle": "crime seen ",
+                "type": "PHOTO_IMAGE",
+                "excerpt": "Re-examined under alternative viewpoint for potential misinterpretation or procedural issues."
+              }
+            ],
+            "humanReviewStatus": "Pending",
+            "investigatorNotes": ""
+          }
+        ]
+      }
+    ]
+  },
+  "crossLinks": {
+    "case-1789130117558": [],
+    "case-1789131460546": [],
+    "case-1789131892044": [],
+    "case-1789146816232": []
+  },
+  "auditLogs": [
+    {
+      "id": "log-1789146971145",
+      "user_id": "INV-4082",
+      "user_name": "JATINAIUSED022 (INV-4082)",
+      "action_type": "HYPOTHESIS_GENERATION",
+      "details": "Generated Analysis Version V1 using Gemini 3.6 Flash (1 evidence items)",
+      "hash_sha256": "b531af7dcfedac6b202d..."
+    },
+    {
+      "id": "log-1789146948279",
+      "user_id": "INV-4082",
+      "user_name": "JATINAIUSED022 (INV-4082)",
+      "action_type": "UPLOAD",
+      "details": "Added evidence [PHOTO_IMAGE] to case CASE-2026-491846: crime seen ",
+      "hash_sha256": "200ae95fb661bd251498..."
+    },
+    {
+      "id": "log-1789146817405",
+      "user_id": "INV-4082",
+      "user_name": "JATINAIUSED022 (INV-4082)",
+      "action_type": "UPLOAD",
+      "details": "Initiated new case file: CASE-2026-491846 - mureder_0001",
+      "hash_sha256": "18ac696215e126322570..."
+    },
+    {
+      "id": "log-1789134096694",
+      "user_id": "INV-4082",
+      "user_name": "JATINAIUSED022 (INV-4082)",
+      "action_type": "HYPOTHESIS_GENERATION",
+      "details": "Generated Analysis Version V6 using Gemini 3.6 Flash (3 evidence items)",
+      "hash_sha256": "aa3652b1124f7d2d4fc0..."
+    },
+    {
+      "id": "log-1789133880757",
+      "user_id": "INV-4082",
+      "user_name": "JATINAIUSED022 (INV-4082)",
+      "action_type": "HYPOTHESIS_GENERATION",
+      "details": "Generated Analysis Version V5 using Gemini 3.6 Flash (3 evidence items)",
+      "hash_sha256": "a29a7fd1a08f3f8cc7ce..."
+    },
+    {
+      "id": "log-1789132215237",
+      "user_id": "INV-4082",
+      "user_name": "JATINAIUSED022 (INV-4082)",
+      "action_type": "HYPOTHESIS_GENERATION",
+      "details": "Generated Analysis Version V4 using Gemini 3.6 Flash (3 evidence items)",
+      "hash_sha256": "969d6a8ffd429f1eeaab..."
+    },
+    {
+      "id": "log-1789132202234",
+      "user_id": "INV-4082",
+      "user_name": "JATINAIUSED022 (INV-4082)",
+      "action_type": "UPLOAD",
+      "details": "Added evidence [PHOTO_IMAGE] to case CASE-2026-483831: crime seen with time ",
+      "hash_sha256": "200ae95fb661bd251498..."
+    },
+    {
+      "id": "log-1789132072613",
+      "user_id": "INV-4082",
+      "user_name": "JATINAIUSED022 (INV-4082)",
+      "action_type": "HYPOTHESIS_GENERATION",
+      "details": "Generated Analysis Version V3 using Gemini 3.6 Flash (2 evidence items)",
+      "hash_sha256": "e386508451e7a200a133..."
+    },
+    {
+      "id": "log-1789132067959",
+      "user_id": "INV-4082",
+      "user_name": "JATINAIUSED022 (INV-4082)",
+      "action_type": "UPLOAD",
+      "details": "Added evidence [VEHICLE_INFO] to case CASE-2026-483831: inf _ vechicle",
+      "hash_sha256": "f55b3eb350410d941712..."
+    },
+    {
+      "id": "log-1789131892570",
+      "user_id": "INV-4082",
+      "user_name": "JATIN PRAJAPATI (INV-4082)",
+      "action_type": "UPLOAD",
+      "details": "Initiated new case file: CASE-2026-591646 - Database Test Case",
+      "hash_sha256": "77f0a9794ae1d7fab1af..."
+    },
+    {
+      "id": "log-1789131462070",
+      "user_id": "INV-4082",
+      "user_name": "JATIN PRAJAPATI (INV-4082)",
+      "action_type": "UPLOAD",
+      "details": "Initiated new case file: CASE-2026-533381 - Test Case from API",
+      "hash_sha256": "8f08a4c302bcfa306723..."
+    },
+    {
+      "id": "log-1789130312894",
+      "user_id": "INV-4082",
+      "user_name": "JATINAIUSED022 (INV-4082)",
+      "action_type": "HYPOTHESIS_GENERATION",
+      "details": "Generated Analysis Version V2 using Gemini 3.6 Flash (1 evidence items)",
+      "hash_sha256": "c5fc3d8f5463412d3719..."
+    },
+    {
+      "id": "log-1789130228829",
+      "user_id": "INV-4082",
+      "user_name": "JATINAIUSED022 (INV-4082)",
+      "action_type": "HYPOTHESIS_GENERATION",
+      "details": "Generated Analysis Version V1 using Gemini 3.6 Flash (1 evidence items)",
+      "hash_sha256": "518100ce44d0e896be15..."
+    },
+    {
+      "id": "log-1789130189782",
+      "user_id": "INV-4082",
+      "user_name": "JATINAIUSED022 (INV-4082)",
+      "action_type": "UPLOAD",
+      "details": "Added evidence [FIR_CASE_REPORT] to case CASE-2026-483831: fir ",
+      "hash_sha256": "e3aa04ab78adb49c6b33..."
+    },
+    {
+      "id": "log-1789130117560",
+      "user_id": "INV-4082",
+      "user_name": "JATINAIUSED022 (INV-4082)",
+      "action_type": "UPLOAD",
+      "details": "Initiated new case file: CASE-2026-483831 - case_001",
+      "hash_sha256": "e454745fd35144a4627b..."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Sakshya",
+  "description": "AI-Powered Investigation & Decision Support Platform for law enforcement and investigators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
